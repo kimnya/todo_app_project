@@ -12,6 +12,7 @@
 		"@testing-library/react": "^13.4.0",
 		"@testing-library/user-event": "^13.5.0",
 		"dom": "^0.0.3",
+		"gh-pages": "^6.0.0",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"react-router": "^6.16.0",
@@ -43,5 +44,8 @@
 			"last 1 safari version"
 		]
 	},
-	"homepage": " https://kimnya.github.io/todo_app_project/"
+	"homepage": " https://kimnya.github.io/todo_app_project/",
+	"devDependencies": {
+		"@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+	}
 }
